@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T08:09:44.278Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XouCwI9FvT070dVvVsJX" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T08:10:17.245Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xF9EzVsU3E9Rw9Osn8Qp" version="21.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1225" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="230" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="paGthWQcGo8uKa_LO1mT-11" value="（仿真版本与prerelease&lt;br&gt;版本有时间差，两个版本发布时间差过短会造成仿真版本间差异大）&lt;br&gt;-将感知和仿真任务拆开" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="190" height="100" as="geometry" />
+          <mxGeometry x="770" y="620" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
